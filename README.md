@@ -1,2 +1,10 @@
 # Agency-Sales-Analysis
-A review and analysis of first-quarter revenue from agency sales channels to develop a sales strategy and gain market insights aimed at maximizing income for PT Garuda Indonesia (Persero) Tbk.
+
+***
+
+## Project Background
+
+PT Garuda Indonesia (Persero) Tbk, established in 1949, is the national airline of Indonesia known for its premium service and international reach. This project focuses on strengthening the Agency Sales Channel Marketing, a key revenue source.
+
+## Executive Summary
+
