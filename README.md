@@ -11,7 +11,7 @@ PT Garuda Indonesia (Persero) Tbk, established in 1949, is the national airline 
 Agency Sales Analysis: Comparative analysis of the first quarter between 2023 and 2024 demonstrates revenue growth of approximately $4 million, with Jakarta region contributing 87% of total agency sales revenue. The CGK-DPS-CGK route represents the highest-performing revenue generator, producing around $16 million across both quarters. However, month-on-month analysis reveals concerning trends, showing declining growth and losses of approximately $1 million. Given that this route serves as the company's primary revenue source, PT Garuda Indonesia (Persero) Tbk should prioritize service improvements and expansion on this top-performing route while optimizing sales program participation from the highest-performing regional markets. These strategic initiatives will strengthen the company's position in the aviation industry and drive sustainable long-term growth.
 
 ![Table Model](https://github.com/user-attachments/assets/9c76096d-40fd-4866-8c32-fba87a28abcf)
-Agency Sales Table Model
+Agency Sales Model Tables
 
 ## Insight Deep-Dive
 
