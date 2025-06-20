@@ -18,7 +18,7 @@ Agency Sales Table Model
 ### Quarter-on-Quarter Analysis
 
 - Agency sales revenue averages $67 millions with five hundred thousands (500,000) pax flown per Q1.
-- Revenue receive a growth of 6% as a new travel fair concept was created on 2023.
+- Revenue receives 6% growth as a new travel fair concept was created on 2023.
 - Revitalized aircrafts might be the reason the company sees a 7% growth of the pax flown.
 
 ![Q-o-Q Analysis](https://github.com/user-attachments/assets/59a62ab6-bc80-45dc-93fb-cc3cd6272b17)
