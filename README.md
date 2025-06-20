@@ -22,6 +22,8 @@ Agency Sales Table Model
 - Revitalized aircrafts might be the reason the company's see a 7% growth of the pax flown.
 
 ![Q-o-Q Analysis](https://github.com/user-attachments/assets/59a62ab6-bc80-45dc-93fb-cc3cd6272b17)
+![Q-o-Q Chart](https://github.com/user-attachments/assets/209354c6-b8b5-4778-8ef8-63d835667c08)
+
 
 ### Month-on-Month Analysis
 
