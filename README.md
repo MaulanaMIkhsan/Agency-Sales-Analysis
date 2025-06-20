@@ -24,7 +24,14 @@ Agency Sales Table Model
 ![Q-o-Q Analysis](https://github.com/user-attachments/assets/59a62ab6-bc80-45dc-93fb-cc3cd6272b17)
 ![Q-o-Q Chart](https://github.com/user-attachments/assets/209354c6-b8b5-4778-8ef8-63d835667c08)
 
-
 ### Month-on-Month Analysis
+
+- January on the first quarter of 2024 sees a 25% revenue growth and 23% pax flown growth from the previous year.
+- Despite the growth on QoQ, march declined by 5% on revenue growth and declined by 4% on pax flown.
+
+![MoM Analysis](https://github.com/user-attachments/assets/14ba05e9-5984-4b85-9757-d53a1a509f79)
+![MoM Chart](https://github.com/user-attachments/assets/f2b8436b-be6e-4c80-b4c5-928a9d91110d)
+
+### Sales Program
 
 -
