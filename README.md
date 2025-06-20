@@ -35,7 +35,7 @@ Agency Sales Table Model
 ### Sales Program
 
 - Bayu Buana as the highest travel agent partners with $4.8 millions revenue generated on the first quarter of 2023, shall receives the most benefits e.g. highest incentive program.
-- Looking at the 2nd to 7th place on the list, it indicates that the market is very competitive with a small margin around $1 million.
+- Looking at the 2nd to 6th place on the list, it indicates that the market is very competitive with a small margin around $1 million.
 - The targeted market by the top ten (10) travel agent partners showed that it's quite profitable for both company.
 
 ![Top 10 chart](https://github.com/user-attachments/assets/1d3f9ee7-4f5c-435e-b17b-60ae5a07e7c3)
