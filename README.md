@@ -8,7 +8,7 @@ PT Garuda Indonesia (Persero) Tbk, established in 1949, is the national airline 
 
 ## Executive Summary
 
-Agency Sales analysis of the first quarter of 2023 and 2024 shows growth revenue around $4 millions, with Jakarta as a region of sales contributing 87% of revenue. CGKDPSCGK as the routes highest perfomance revenues on both quarter around $16 millions, though looking on month-on-month is a concern because a declining growth/loss around $1 million. As the key revenue source of the company, the company should improve and expand the service of the most performing route and optimizing sales program participation from the highest performing region sales. These will strengthen PT Garuda Indonesia (Persero) Tbk as an aviation company and drive sustainable growth.
+Agency Sales Analysis: Comparative analysis of the first quarter between 2023 and 2024 demonstrates revenue growth of approximately $4 million, with Jakarta region contributing 87% of total agency sales revenue. The CGK-DPS-CGK route represents the highest-performing revenue generator, producing around $16 million across both quarters. However, month-on-month analysis reveals concerning trends, showing declining growth and losses of approximately $1 million. Given that this route serves as the company's primary revenue source, PT Garuda Indonesia (Persero) Tbk should prioritize service improvements and expansion on this top-performing route while optimizing sales program participation from the highest-performing regional markets. These strategic initiatives will strengthen the company's position in the aviation industry and drive sustainable long-term growth.
 
 ![Table Model](https://github.com/user-attachments/assets/9c76096d-40fd-4866-8c32-fba87a28abcf)
 Agency Sales Table Model
@@ -17,18 +17,18 @@ Agency Sales Table Model
 
 ### Quarter-on-Quarter Analysis
 
-- Agency sales revenue averages $67 millions with five hundred thousands (500,000) pax flown per Q1.
-- Revenue receives 6% growth as a new travel fair concept was created on 2023.
-- Revitalized aircrafts might be the reason the company sees a 7% growth of the pax flown.
+- Agency sales revenue averaged $67 million with 500,000 passengers transported per Q1.
+- Revenue experienced 6% growth following the introduction of a new travel fair concept in 2023.
+- Aircraft revitalization likely contributed to the 7% increase in passenger volume.
 
 ![Q-o-Q Analysis](https://github.com/user-attachments/assets/59a62ab6-bc80-45dc-93fb-cc3cd6272b17)
 ![Q-o-Q Chart](https://github.com/user-attachments/assets/209354c6-b8b5-4778-8ef8-63d835667c08)
 
 ### Month-on-Month Analysis and Revenue per Pax Analysis
 
-- January on the first quarter of 2024 sees a 25% revenue growth and 23% pax flown growth from the previous year.
-- Despite the growth on QoQ, revenue growth sees 5% declined with pax flown by 4% declined by march 2024.
-- The growth also indicates that the month sees the highest revenue per pax ratio at $186, this is because the return period after new year's eve. However, on the same month it also sees the lowest revenue per pax revenue at just $115. 
+- January 2024 recorded 25% revenue growth and 23% passenger volume growth compared to the previous year.
+- Despite quarter-over-quarter growth, revenue declined by 5% and passenger volume decreased by 4% by March 2024.
+- The highest revenue per passenger ratio in Q1 2023 reached $186 during the post-New Year travel period. However, the same month also recorded the lowest revenue per passenger at $115. 
 
 ![MoM Analysis](https://github.com/user-attachments/assets/14ba05e9-5984-4b85-9757-d53a1a509f79)
 ![MoM Chart](https://github.com/user-attachments/assets/f2b8436b-be6e-4c80-b4c5-928a9d91110d)
@@ -36,39 +36,55 @@ Agency Sales Table Model
 
 ### Sales Program
 
-- Bayu Buana as the highest travel agent partners with $4.8 millions revenue generated on the first quarter of 2023, shall receives the most benefits e.g. highest incentive program.
-- Looking at the 2nd to 6th place on the list, it indicates that the market is very competitive with a small margin around $1 million.
-- The targeted market by the top ten (10) travel agent partners showed that it's quite profitable for both company.
+- Bayu Buana, as the top-performing travel agent partner with $4.8 million in revenue generated during Q1 2023, should receive premium benefits including the highest tier incentive programs.
+- Analysis of the 2nd through 6th ranked partners reveals a highly competitive market environment with narrow revenue margins of approximately $1 million between positions.
+- The market segments targeted by the top ten travel agent partners demonstrate strong profitability for both the company and its partners.
 
 ![Top 10 chart](https://github.com/user-attachments/assets/1d3f9ee7-4f5c-435e-b17b-60ae5a07e7c3)
 
 ### Travel Agent Highest Growth Revenue
 
-- HIS Travel, Golden Rama, and Avia Tour achieved more than $1.4 millions revenue growth compare to the rest of the travel agent partners.
-- Kuta Cemerlang Bali, Avia Tour, and Anggrek Wisata Indonesia Travel sees >= 100% revenue growth, it shows that in a year they have found the correct market while partnering with Garuda Indonesia.
+- HIS Travel, Golden Rama, and Avia Tour achieved over $1.4 million in revenue growth compared to other travel agent partners.
+- Kuta Cemerlang Bali, Avia Tour, and Anggrek Wisata Indonesia Travel recorded revenue growth of 100% or higher, demonstrating that these partners successfully identified and captured the right market segments through their partnership with Garuda Indonesia within a one-year period.
 
 ![Top 10 analysis](https://github.com/user-attachments/assets/c733a3be-ed63-40c5-9792-0ba059820444)
 ![Highest growth chart](https://github.com/user-attachments/assets/ad812389-f449-4624-a4b5-51137ace0cf3)
 
 ### Region of Sales Highest Growth Revenue and Most Demanding Routes on Q1 2023 & 2024
 
-- The head office of the company, Jakarta surged in revenue growth with $3 millions alone.
-- Despite being the number one (1) of most demanding routes for Garuda Indonesia, DPS/Denpasar as region of sales only sees a $460K revenue growth. This indicates that geographical aspects might matter on the market.
-- UPG/Makassar as one of region sales sees a $60K declined on revenue, whilst other region achieved a positive growth. This loss indicates low interest from the market in the region.
-- CGK-MES and CGK-SIN as two of most demanding routes shows that the market is stable, whilst the first and second place on the list sees a significant declined.
+- Jakarta, serving as the company's head office region, generated substantial revenue growth of $3 million independently.
+- Despite DPS/Denpasar being one of Garuda Indonesia's most popular destinations, this sales region achieved only $460,000 in revenue growth, suggesting that geographical factors may significantly influence market performance.
+- UPG/Makassar experienced a $60,000 revenue decline while other regional markets posted positive growth, indicating reduced market demand and interest in this particular region.
+- The CGK-MES and CGK-SIN routes, both high-demand destinations, demonstrated market stability, while the top two routes on the performance list experienced significant declines.
 
 ![Region growth and demanding routes](https://github.com/user-attachments/assets/a39423bc-9173-46bc-b13f-68133ab224ef)
 
 ## Recommendations
 
-Maximize Product Offerings
+Maximize Product Portfolio and Service Offerings
 
-- **Maintans and Grow New Travel Fair Concepts**: With the current format of the travel fair sees a positive growth for the company, we could try to innovate and improve the concept to reach more diverse markets.
-- **Prioritize Revitalize More Aircrafts**: Looking at the current growth, the company could optmizes more units to be revitalize to achieves more growths.
+- **Maintains and Expands New Travel Fair Concepts**: Given the positive growth achieved through the current travel fair format, the company should continue innovating and enhancing this concept to reach more diverse market segments.
+- **Prioritize Aircraft Fleet Revitalization**: Considering the current growth trajectory, the company should optimize additional aircraft units for revitalization to attract new markets and generate increased revenue.
 
 ***
 
-Enhance Operations Service
+Enhance Operational Excellence and Service Delivery
 
-- **
+- **Optimize Low-Season Performance**: Aviation companies inevitably face low-season periods, particularly from March to June in Indonesia. During these times, the sales team should maximize opportunities across all market segments, analyze trends and patterns occurring in different countries and seasons, and establish strategic partnerships with other airlines through mutually beneficial agreements.
+- **Implement Data-Driven Decision Making**: Continuously monitor key revenue metrics and use data insights to refine operational strategies, ensuring sustained business effectiveness and growth.
+
+***
+
+Leverage Strategic Travel Agent Partnerships
+
+- **Maximize Travel Agent Market Potential**: The agency sales unit's advantage lies in leveraging travel agent partners to identify and cultivate their own customer bases rather than directly engaging end consumers. However, the agency sales unit must provide comprehensive support to these partners and help them maximize available market opportunities through strategic challenges and incentive programs. For example, during low-season periods, the agency sales unit could develop competitive sales programs targeting specific routes, where travel agents compete for rewards such as branded merchandise, complimentary tickets, enhanced commission rates, and other valuable incentives beyond standard compensation.
+
+***
+
+Optimize Regional Markets and Route Performance
+
+- **Focus on High-Performing Revenue Generators**: The company should develop the capability to forecast, calculate, and make strategic decisions about discontinuing underperforming sales regions and routes that fail to meet established revenue standards. Rather than maintaining unprofitable operations, the company should concentrate resources on improving and innovating within higher-revenue regions and routes to maximize profitability and growth potential.
+
+## Clarifying Questions, Assumptions, and Caveats
+
 
