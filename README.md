@@ -59,7 +59,7 @@ Agency Sales Table Model
 
 ![Region growth and demanding routes](https://github.com/user-attachments/assets/a39423bc-9173-46bc-b13f-68133ab224ef)
 
-### Recommendations
+## Recommendations
 
 Maximize Product Offerings
 
