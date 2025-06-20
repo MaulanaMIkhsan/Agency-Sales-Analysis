@@ -24,13 +24,15 @@ Agency Sales Table Model
 ![Q-o-Q Analysis](https://github.com/user-attachments/assets/59a62ab6-bc80-45dc-93fb-cc3cd6272b17)
 ![Q-o-Q Chart](https://github.com/user-attachments/assets/209354c6-b8b5-4778-8ef8-63d835667c08)
 
-### Month-on-Month Analysis
+### Month-on-Month Analysis and Revenue per Pax Analysis
 
 - January on the first quarter of 2024 sees a 25% revenue growth and 23% pax flown growth from the previous year.
 - Despite the growth on QoQ, revenue growth sees 5% declined with pax flown by 4% declined by march 2024.
+- The growth also indicates that the month sees the highest revenue per pax ratio at $186, this is because the return period after new year's eve. However, on the same month it also sees the lowest revenue per pax revenue at just $115. 
 
 ![MoM Analysis](https://github.com/user-attachments/assets/14ba05e9-5984-4b85-9757-d53a1a509f79)
 ![MoM Chart](https://github.com/user-attachments/assets/f2b8436b-be6e-4c80-b4c5-928a9d91110d)
+![Daily revenue per pax](https://github.com/user-attachments/assets/031b1fd6-5984-4022-8755-6069c892f906)
 
 ### Sales Program
 
@@ -56,3 +58,17 @@ Agency Sales Table Model
 - CGK-MES and CGK-SIN as two of most demanding routes shows that the market is stable, whilst the first and second place on the list sees a significant declined.
 
 ![Region growth and demanding routes](https://github.com/user-attachments/assets/a39423bc-9173-46bc-b13f-68133ab224ef)
+
+### Recommendations
+
+Maximize Product Offerings
+
+- **Maintans and Grow New Travel Fair Concepts**: With the current format of the travel fair sees a positive growth for the company, we could try to innovate and improve the concept to reach more diverse markets.
+- **Prioritize Revitalize More Aircrafts**: Looking at the current growth, the company could optmizes more units to be revitalize to achieves more growths.
+
+***
+
+Enhance Operations Service
+
+- **
+
