@@ -53,7 +53,7 @@ Agency Sales Model Tables
 ### Region of Sales Highest Growth Revenue and Most Demanding Routes on Q1 2023 & 2024
 
 - Jakarta, serving as the company's head office region, generated substantial revenue growth of $3 million independently.
-- Despite DPS/Denpasar being one of Garuda Indonesia's most popular destinations, this sales region achieved only $460,000 in revenue growth, suggesting that geographical factors may significantly influence market performance.
+- Despite DPS/Denpasar being one of Garuda Indonesia's most popular destinations, this sales region achieved only $460,000 in revenue growth, suggesting that geographical factors may significantly influence market performance or other reasons.
 - UPG/Makassar experienced a $60,000 revenue decline while other regional markets posted positive growth, indicating reduced market demand and interest in this particular region.
 - The CGK-MES and CGK-SIN routes, both high-demand destinations, demonstrated market stability, while the top two routes on the performance list experienced significant declines.
 
@@ -70,7 +70,7 @@ Maximize Product Portfolio and Service Offerings
 
 Enhance Operational Excellence and Service Delivery
 
-- **Optimize Low-Season Performance**: Aviation companies inevitably face low-season periods, particularly from March to June in Indonesia. During these times, the sales team should maximize opportunities across all market segments, analyze trends and patterns occurring in different countries and seasons, and establish strategic partnerships with other airlines through mutually beneficial agreements.
+- **Optimize First Quarter Performance**: During these times, the sales team should maximize opportunities across all market segments, analyze trends and patterns occurring in different countries and seasons, and establish strategic partnerships with other airlines through mutually beneficial agreements.
 - **Implement Data-Driven Decision Making**: Continuously monitor key revenue metrics and use data insights to refine operational strategies, ensuring sustained business effectiveness and growth.
 
 ***
@@ -87,4 +87,21 @@ Optimize Regional Markets and Route Performance
 
 ## Clarifying Questions, Assumptions, and Caveats
 
+### Questions Prior to Projects Advancement
 
+- **`all columns` in the table**
+  - How is this data recorded?
+  - Why there is no refund record in the database given?
+  - What is the time frame for data collection - is this based on booking date, travel date, or payment date?
+  - Are these figures based on gross bookings or net revenue after cancellations and changes?
+
+### Assumptions and Caveats
+
+- **Data Quality Assumptions**:
+  - Revenue figures are assumed to be accurate and consistently measured across periods, but no refund data suggests potential overstatement of actual realized revenue.
+  - Growth percentages assume like-for-like comparisons without accounting for changes in route mix, fare structures, or booking policies.
+  - Passenger counts may not reflect actual flown passengers versus booked passengers.
+- **Sampling and Scope Caveats**:
+  - Analysis focuses only on Q1 data, which may not represent annual performance patterns.
+  - Agency sales represent only one revenue channel, potentially missing direct booking trends.
+  - Top 10 travel agent analysis may not reflect broader market dynamics.
