@@ -89,7 +89,7 @@ Optimize Regional Markets and Route Performance
 
 ### Questions Prior to Projects Advancement
 
-- **`all columns` in the table**
+- **All Columns in The Table**:
   - How is this data recorded?
   - Why there is no refund record in the database given?
   - What is the time frame for data collection - is this based on booking date, travel date, or payment date?
