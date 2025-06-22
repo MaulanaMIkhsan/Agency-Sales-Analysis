@@ -89,19 +89,19 @@ Optimize Regional Markets and Route Performance
 
 ### Questions Prior to Projects Advancement
 
-**All Columns in The Table**:
-  - How is this data recorded?
-  - Why there is no refund record in the database given?
-  - What is the time frame for data collection - is this based on booking date, travel date, or payment date?
-  - Are these figures based on gross bookings or net revenue after cancellations and changes?
+- **All Columns in The Table**:
+    - How is this data recorded?
+    - Why there is no refund record in the database given?
+    - What is the time frame for data collection - is this based on booking date, travel date, or payment date?
+    - Are these figures based on gross bookings or net revenue after cancellations and changes?
 
 ### Assumptions and Caveats
 
-**Data Quality Assumptions**:
-  - Revenue figures are assumed to be accurate and consistently measured across periods, but no refund data suggests potential overstatement of actual realized revenue.
-  - Growth percentages assume like-for-like comparisons without accounting for changes in route mix, fare structures, or booking policies.
-  - Passenger counts may not reflect actual flown passengers versus booked passengers.
-**Sampling and Scope Caveats**:
-  - Analysis focuses only on Q1 data, which may not represent annual performance patterns.
-  - Agency sales represent only one revenue channel, potentially missing direct booking trends.
-  - Top 10 travel agent analysis may not reflect broader market dynamics.
+- **Data Quality Assumptions**:
+    - Revenue figures are assumed to be accurate and consistently measured across periods, but no refund data suggests potential overstatement of actual realized revenue.
+    - Growth percentages assume like-for-like comparisons without accounting for changes in route mix, fare structures, or booking policies.
+    - Passenger counts may not reflect actual flown passengers versus booked passengers.
+- **Sampling and Scope Caveats**:
+    - Analysis focuses only on Q1 data, which may not represent annual performance patterns.
+    - Agency sales represent only one revenue channel, potentially missing direct booking trends.
+    - Top 10 travel agent analysis may not reflect broader market dynamics.
