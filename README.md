@@ -87,7 +87,7 @@ Optimize Regional Markets and Route Performance
 
 ## Clarifying Questions, Assumptions, and Caveats
 
-### Questions Prior to Projects Advancement
+### Questions Prior to Project Advancement
 
 - **All Columns in The Table**:
     - How is this data recorded?
@@ -105,3 +105,9 @@ Optimize Regional Markets and Route Performance
     - Analysis focuses only on Q1 data, which may not represent annual performance patterns.
     - Agency sales represent only one revenue channel, potentially missing direct booking trends.
     - Top 10 travel agent analysis may not reflect broader market dynamics.
+
+***
+
+- See the raw data I used for this project in the [CSV Files](Agency-Sales-Analysis/Datasets).
+- See my SQL queries in [SQL](Agency-Sales-Analysis/Exploration).
+- See the visualization in [Power BI Visual](Agency-Sales-Analysis/Visualization).
