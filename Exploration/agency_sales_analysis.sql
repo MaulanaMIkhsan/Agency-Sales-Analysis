@@ -17,7 +17,7 @@ This project uses two datasets:
 
 These data altogether allow for a comprehensive view of Agency Sales Unit revenue and routes performance.
 
-DISCLAIMER: This project will strictly used the first Quarter and Months of revenues from 2023 and 2024 due to real datasets usage.
+DISCLAIMER: The data used in this project is fictional and has been generated for confidentiality purposes.
 */
 
 -- DATA LOADING
